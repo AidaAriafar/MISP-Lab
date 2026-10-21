@@ -1,1 +1,1 @@
-# MISP-Lab-
+# Medical Image & Signal Processing Lab
